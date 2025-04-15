@@ -33,6 +33,10 @@ Clickt man auf einen Prozess, werden die zugehörigen Aufgaben angezeigt
 
 Eine weitere Ansicht soll "meine anstehenden Aufgaben" darstellen
 
+## Weitere Features
+
+Es soll die Möglichkeit geben, _Prozesse_ und _Aufgaben_ zu kopieren. Dabei werden dann alle "angehängten" Aufgaben mit-kopiert. So ist es zB möglich, gleiche Aufgaben im neuen Semester direkt durch eine kopie anzulegen.
+
 
 
 
